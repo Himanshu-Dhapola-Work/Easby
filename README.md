@@ -9,7 +9,7 @@ An e-commerce web application built using modern web technologies. The platform 
 
 ---
 ## ER Model
-![diagram-export-9-15-2024-1_56_15-PM](https://github.com/user-attachments/assets/a16f38d3-3426-44e6-a2e3-d1783fda843e)
+![diagram-export-9-15-2024-1_55_15-PM](https://github.com/user-attachments/assets/a3c9295a-66ba-4761-a1cd-8fc77ab2aef4)
 
 ---
 
