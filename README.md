@@ -8,10 +8,6 @@ An e-commerce web application built using modern web technologies. The platform 
 #### Live Demo - https://himanshu-dhapola-easby.vercel.app/
 
 ---
-## ER Model
-![diagram-export-9-15-2024-1_55_15-PM](https://github.com/user-attachments/assets/a3c9295a-66ba-4761-a1cd-8fc77ab2aef4)
-
----
 
 ## Key Features
 - **User Authentication & Authorization**: Secure login and signup with JWT and session handling.
@@ -38,6 +34,11 @@ An e-commerce web application built using modern web technologies. The platform 
 - **MongoDB**: NoSQL database to store user and product data.
 - **Mongoose**: ODM for MongoDB to define models and interact with the database.
 - **Flask**: Python framework to power the ***recommendation system***.
+
+---
+
+## ER Model
+![diagram-export-9-15-2024-1_55_15-PM](https://github.com/user-attachments/assets/a3c9295a-66ba-4761-a1cd-8fc77ab2aef4)
 
 ---
 
