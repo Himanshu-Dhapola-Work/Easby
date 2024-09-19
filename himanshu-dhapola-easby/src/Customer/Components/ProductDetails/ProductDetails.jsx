@@ -78,6 +78,7 @@ export default function ProductDetails() {
           <img
             alt={product?.imageUrl}
             src={product?.imageUrl}
+            loading="lazy" 
             className="w-full object-contain h-full object-center"
           />
         </div>
