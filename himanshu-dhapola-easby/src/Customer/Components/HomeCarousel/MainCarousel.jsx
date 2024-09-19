@@ -9,6 +9,7 @@ const MainCarousel = () => {
         key={item.key}
         role="presentation"
         src={item.image}
+        loading="lazy" 
         alt=""
       />
     ));
