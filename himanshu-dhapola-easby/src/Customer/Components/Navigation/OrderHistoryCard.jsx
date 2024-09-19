@@ -32,6 +32,7 @@ export default function OrderHistoryCard({ item }) {
               <img
                 className="w-full h-full object-contain object-center"
                 src={card?.product?.imageUrl}
+                loading="lazy" 
                 alt={card?.product?.title}
               />
             </div>
