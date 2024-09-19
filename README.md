@@ -110,5 +110,6 @@ An e-commerce web application built using modern web technologies. The platform 
 
 ## Performance
 
-![Screenshot (172)](https://github.com/user-attachments/assets/3d7bc934-b2fd-4451-81c4-0900297692cc)
+![Screenshot (173)](https://github.com/user-attachments/assets/9d34a127-3986-48a6-a4ac-add8b4c72fa7)
+
 
