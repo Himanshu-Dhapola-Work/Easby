@@ -23,6 +23,7 @@ export default function CategoryItem({ item }) {
       <img
         src={item.image}
         alt=""
+        loading="lazy" 
         className="w-[120px] h-[120px] lg:w-[180px] lg:h-[180px]"
       />
     </div>
