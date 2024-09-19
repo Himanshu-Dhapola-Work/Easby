@@ -23,7 +23,7 @@ export default function ProductCard({ product }) {
       className="flex font-Poppins lg:flex-col justify-center items-center border  shadow-lg rounded-2xl bg-white m-2 cursor-pointer transition-all duration-300 hover:scale-105"
     >
       <div className="w-[200px] h-[200px] flex justify-center items-center">
-        <img src={product.imageUrl} alt="" className="w-full pt-2 pl-2 pr-2" />
+        <img src={product.imageUrl} alt="" loading="lazy"  className="w-full pt-2 pl-2 pr-2" />
       </div>
       <div className="flex flex-col text-[12px] md:text-base w-full pb-3 pr-3 pl-3">
         <p className="uppercase text-color font-semibold py-2">
