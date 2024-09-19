@@ -81,17 +81,17 @@ An e-commerce web application built using modern web technologies. The platform 
 ---
 
 
-### Cart Page
+## Cart Page
 ![Screenshot (165)](https://github.com/user-attachments/assets/f983d996-fe08-41d7-ad46-26c0654d44ab)
 
 *View and manage items in your shopping cart, including total and discounted prices.*
 
-### Address Page
+## Address Page
 ![Screenshot (148)](https://github.com/user-attachments/assets/46520957-26cb-44dd-9a28-fa29661cb656)
 
 *Add or select a saved address for delivery.*
 
-### Order Summary Page
+## Order Summary Page
 ![Screenshot (166)](https://github.com/user-attachments/assets/fbe700cc-86fa-4fab-8a91-7809915c357f)
 
 *View order details before finalizing the purchase.*
@@ -101,14 +101,14 @@ An e-commerce web application built using modern web technologies. The platform 
 
 *Integrated Stripe for secure payment processing.*
 
-### Order History Page
+## Order History Page
 ![Screenshot (167)](https://github.com/user-attachments/assets/1b81b11a-245f-405e-a724-de20d73a038e)
 
 *Track past orders with detailed information.*
 
 ---
 
-### Performance
+## Performance
 
 ![Screenshot (172)](https://github.com/user-attachments/assets/3d7bc934-b2fd-4451-81c4-0900297692cc)
 
