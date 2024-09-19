@@ -57,6 +57,7 @@ export default function CartItem({ item }) {
           <img
             src={item.product?.imageUrl}
             alt=""
+            loading="lazy" 
             className="w-full h-full object-contain object-center"
           />
         </div>
