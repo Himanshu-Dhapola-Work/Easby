@@ -50,7 +50,7 @@ export default function Footer() {
         </div>
       </footer>
       <div className="flex flex-col items-center text-white pb-6">
-        <p>&copy; 2024 My Company. All rights reserved</p>
+        <p>&copy; 2025 My Company. All rights reserved</p>
         <p className="flex gap-7 relative">
           <div>
             Made by
