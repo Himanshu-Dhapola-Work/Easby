@@ -12,7 +12,7 @@ export const categoryData = [
   {
     category: "Fashion",
     image:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8nvRwtGe3FZ7lKmPSj4xH46NYjOJNLq_HJw&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFdU3Ez02RKyQy96CfF1aJxMJlD1rQ4iyIVA&s",
   },
   {
     category: "Electronics",
@@ -32,7 +32,7 @@ export const categoryData = [
   {
     category: "Accessories",
     image:
-      "https://www.chanel.com/images/w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.1/w_1920/n-5-eau-de-parfum-spray-3-4fl-oz--packshot-default-125530-9539148742686.jpg",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTK99Rvt6Ze8e6tJmtJ5vaFMSlN8xss5pY72cjHUBVdsMx7oE_z8zGpizJjrd_4r1CgCf6g8U0sIeF-0s9Ne7HHeP3-2hR_5Z0V_mgVZpzlbwGFmHHTXe8rD64NmwHVYv8cSwVYKA&usqp=CAchttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpTMaWnAX35P4q9h6tIi21dSnCLBOOikeBlg&s",
   },
   {
     category: "Smartphones",
